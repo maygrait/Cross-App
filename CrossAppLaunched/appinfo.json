@@ -1,0 +1,10 @@
+{
+	"id": "com.palmdts.appb",
+	"version": "2.0.0",
+	"vendor": "Palm, inc",
+	"type": "web",
+	"main": "index.html",
+	"title": "App B",
+	"icon": "icon.png",
+	"noWindow": true
+}

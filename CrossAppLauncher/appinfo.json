@@ -1,0 +1,9 @@
+{
+	"id": "com.palmdts.appa",
+	"version": "1.0.0",
+	"vendor": "Palm, inc",
+	"type": "web",
+	"main": "index.html",
+	"title": "App A",
+	"icon": "icon.png"
+}
